@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewTwitter</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">ZWHE3R7k5H26dgAPOlZKDnNTe</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">VAQEBUyovQQ2zLzGHIMMwW7jw61mr74x3EtDhvYYODIfIzlGNI</string>
+    <string name="hello_onii_chan">Hello Onii chan</string>
+</resources>
